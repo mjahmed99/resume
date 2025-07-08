@@ -1,0 +1,27 @@
+.header {
+  padding: 2rem;
+  margin-bottom: 2rem;
+  transition: all 0.3s ease;
+}
+
+.darkMode {
+  background-color: #1a1a1a;
+  color: #ffffff;
+}
+
+.lightMode {
+  background-color: #ffffff;
+  color: #1a1a1a;
+}
+
+.content {
+  margin-bottom: 1rem;
+}
+
+.toggleButton {
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  border: 1px solid currentColor;
+  background: none;
+  cursor: pointer;
+}
